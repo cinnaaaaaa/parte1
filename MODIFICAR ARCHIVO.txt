@@ -1,0 +1,14 @@
+MODIFICAR ARCHIVO:
+GIT ADD . 
+GIT COMMIT -M "QUE CAMBIAS"
+LO DETECTA
+GIT PUSH 
+
+hay que decidir quien va a traer las cosas (cinna)
+se envía invitación y se acepta 
+
+CONTRIBUTORS (solo para revisar)
+SETTINGS
+COLLABORADOR
+MANAGE
+ADD PEOPLE
